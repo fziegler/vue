@@ -1,5 +1,10 @@
 <template>
+<<<<<<< HEAD
   <HelloWorld msg="Imagemap"/>
+=======
+  <img alt="Vue logo" src="./assets/logo.png">
+  <HelloWorld msg="Test"/>
+>>>>>>> f4323a6c111f42be9581d2b2b4a93141c02e67b1
 </template>
 
 <script>
